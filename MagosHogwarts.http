@@ -1,0 +1,6 @@
+@MagosHogwarts_HostAddress = http://localhost:5124
+
+GET {{MagosHogwarts_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
